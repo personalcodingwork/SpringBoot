@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Give you all stuff related to tutorials
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Uday mourya
+Implementation-Vendor-Id: org.tutorial
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootTutorial
+Created-By: Maven Integration for Eclipse
+
